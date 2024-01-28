@@ -1,4 +1,4 @@
-# Born2beroot-Tutorial 🖥🇪🇸
+Tutorial 🖥🇪🇸
 
 This guide has versions in different languages. Choose the one you prefer.
 
